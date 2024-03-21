@@ -25,7 +25,7 @@ body{
         text-shadow: 0 0 12px #fbff00, 0 0 50px #fbff00, 0 0 100px #fbff00;
     }
     10%, 90%{
-        color: #696565;
+        color: #fff;
         text-shadow: none;
     }
 }
